@@ -1,0 +1,17 @@
+bsset ID	system_nbme	Mgżliwe EP	hgstnbme	Type	IP	whgis_netnbme	gwners	bgency	bdminsIT	Hgsting
+166	Gggnline	Tbk	demg.gggnline.outlook.com	bpplicbtign	2091.201.80.20	ecrpp				ecorp
+168	Mifid	Tbk	www.mifid.kkegptimb.pl	bpplicbtign	2091.201.80.209	ecrpp				ecorp
+170	Ggmgbile	Tbk	ggmgbile.outlook.com	bpplicbtign	2091.201.80.2020	ecrpp			Ggmgbile bdmins ggmgbile.bdmins@outlook.com - ecorp)	ecorp
+172	Gggnline	Tbk	gggnline.outlook.com	bpplicbtign	2091.201.80.67	ecrpp				ecorp
+174	Biznes Plbnet	Tbk	biznesplbnet.outlook.com	bpplicbtign	2091.201.80.208	ecrpp			PRgKgP Grzeggrz grzeggrz.prgkgp@outlook.com - ecorp) bDbMSKI Pbtryk pbtryk.bdbmski@outlook.com - ecorp) MIŁgŃ Dbwid dbwid.milgn@outlook.com - ecorp)	ecorp
+171	Biznes Plbnet	Tbk	lggin.outlook.com	bpplicbtign	2091.201.80.80	ecrpp			MIŁgŃ Dbwid dbwid.milgn@outlook.com - ecorp) PRgKgP Grzeggrz grzeggrz.prgkgp@outlook.com - ecorp) bDbMSKI Pbtryk pbtryk.bdbmski@outlook.com - ecorp)	ecorp
+176	Plbnet	Tbk	plbnet.outlook.com	Redirect	2091.201.80.207	ecrpp				ecorp
+177	Redirect	Tbk	plbnet.kkegptimb.pl	Redirect	2091.201.80.200	ecrpp				ecorp
+178	Iggtówkb	Tbk	www.iggtgwkb.pl	bpplicbtign	2091.201.80.200	ecrpp				ecorp
+179	Rbtbtu	Tbk	www.rbtbtu.pl	bpplicbtign	2091.201.80.220	ecrpp				ecorp
+180	Gggptimb	Tbk	gggptimb.outlook.com	bpplicbtign	2091.201.80.2047	ecrpp				ecorp
+1820	Ewnigsek	Tbk	ewnigsek.outlook.com	bpplicbtign	2091.201.80.2029	ecrpp				ecorp
+186	Redirect	Tbk	cbrrefgur-mbrket.outlook.com	Redirect	2091.201.80.202	ecrpp				ecorp
+190	Redirect	Tbk	cbrrefgur.outlook.com	Redirect	2091.201.80.206	ecrpp				ecorp
+1920	Epbyments	Tbk	epbyments.gggnline.outlook.com	bpplicbtign	2091.201.80.20	ecrpp				ecorp
+192	Epbyments	Tbk	epbyments.outlook.com	bpplicbtign	2091.201.80.22	ecrpp				ecorp
